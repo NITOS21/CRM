@@ -1,0 +1,14 @@
+.card-kpi {
+    border: 0;
+    border-radius: 1rem;
+    color: #fff;
+}
+
+.kpi-value {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.gradient-1 { background: linear-gradient(135deg, #0d6efd, #0dcaf0); }
+.gradient-2 { background: linear-gradient(135deg, #198754, #20c997); }
+.gradient-3 { background: linear-gradient(135deg, #6f42c1, #d63384); }
